@@ -12,3 +12,5 @@ Saves the converted file as originalfilename_converted.mission
 Drag and drop your .waypoints file onto convertitore.py
 
 The converted .mission file will be saved in the same folder with _converted.mission appended to the filename
+
+<meta name="google-site-verification" content="-YwW9bUYyM82sawDzixhlIsFsGzS8I2K8TCpUUprtbc" />
